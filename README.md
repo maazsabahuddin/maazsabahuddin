@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Software Engineer with experience in fintech, logistics, and e-commerce projects.
+- Software Engineer with experience in fintech, logistics, and e-commerce automation projects.
 - Experienced in automating repetitive tasks and improving efficiency through scripting.
 - Passionate about development, combining creativity, problem-solving, and algorithm optimization.
 - Built robust and scalable backend systems for various applications.
