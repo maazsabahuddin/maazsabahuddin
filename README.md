@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 <h1 align="center">Hi there, I'm Maaz 👋</h1>
-<h3 align="center">Software Engineer | Data Engineer | Backend Development | Postgraduate Degree, Cybersecurity | Azure </h3>
+<h3 align="center">Software Engineer | Data Engineer | Backend Development | Postgraduate Degree, Cybersecurity </h3>
 
 <!-- PROFILE BADGES -->
 <div align="center">
@@ -18,7 +18,7 @@ An experienced _Software Engineer_ with around 3 years of experience in the soft
 - 🔭 I’m currently working as a Software Engineer at SNOLAB.
 - 🏗️ Working on automating and preprocessing of data pipelines.
 - 🌱 Currently learning and implementing AutoGEN concepts by Microsoft. 
-- 💬 Ask me about **Backend Development, Data Engineering and Architecture Design**
+- 💬 Ask me about **Backend Development, Data Engineering and Architecture Design**.
 - 📫 How to reach me **<maazsabahuddin@gmail.com>**
 
 <!-- PLATFORMS -->
