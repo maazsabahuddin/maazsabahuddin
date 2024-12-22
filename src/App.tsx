@@ -10,7 +10,7 @@ import ContributionsPage from './pages/ContributionsPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/maazsabahuddin">
       <div className="min-h-screen bg-[#121212]">
         <Navbar />
         <Routes>
